@@ -1,6 +1,6 @@
 **Project Description**
 
-My organization is working to make their system more secure. It is my job to ensure the system is safe, investigate all potential security issues, and update employee computers as needed. The following steps provide examples of how I used SQL with filters to perform security-related tasks. Screenshots of the queries are attached.
+In this lab project, I used SQL queries and filters to investigate potential security issues, identify computers that required updates, and analyze security-related data. I applied filtering techniques to retrieve specific records from database tables, helping me identify relevant information and support security monitoring and system maintenance tasks. The attached screenshots show examples of the SQL queries I wrote and how I used filters to complete these security-related tasks.
 
 **Retrieve after hours failed login attempts**
 
